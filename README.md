@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis – Power BI Case Study (DataCamp)
 
-This project was developed as part of the **"Reducing Customer Churn in Power BI"** case study on [DataCamp](https://www.datacamp.com/). The objective is to apply real-world Power BI skills to analyze the customer churn rate of a fictional telecom company called **Databel**.
+This project was developed as part of the **"Case Study: Analyzing Customer Churn in Power BI"** case study on [DataCamp](https://www.datacamp.com/). The objective is to apply real-world Power BI skills to analyze the customer churn rate of a fictional telecom company called **Databel**.
 
 ---
 
